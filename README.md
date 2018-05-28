@@ -13,5 +13,11 @@ This book is a collection of some of those tales.
 
 We are taking contributions to this book. You can add your own story by submitting it to Tom (tom@battlemaster.org) or by requesting access to this github repository and editing them directly. For this as well, contact Tom and you will be assigned your own part and chapters.
 
-Tom adds as editor for this book and retains the privilege of editing or deleting any content submitted before releasing a published copy.
+Tom acts as editor for this book and retains the privilege of editing or deleting any content submitted before releasing a published copy.
 
+
+## Publishing
+
+The book will - in both draft and finished form - be published on [Leanpub](https://leanpub.com/). It will be free of charge (everything else would set up the issue of how much to pay to each contributor).
+
+If it is somewhat successful, Tom will edit it into a pretty print copy. A printed book cannot be for free as printing is not. The printed version will be sold at a reasonable minimum price to cover printing costs.
