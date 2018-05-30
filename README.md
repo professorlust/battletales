@@ -11,9 +11,18 @@ This book is a collection of some of those tales.
 
 ## Contributions
 
-We are taking contributions to this book. You can add your own story by submitting it to Tom (tom@battlemaster.org) or by requesting access to this github repository and editing them directly. For this as well, contact Tom and you will be assigned your own part and chapters.
+We are taking contributions to this book. There are two ways to contribute:
+
+1. If you are familiar with Github and version control, and want to contribute several stories, fork this repository and send your contributions as pull requests. Please collect your stories in their own chapter(s) and don't edit other people's stories (pull requests with edits to other stories will be rejected).
+2. Otherwise, you can add your own story by submitting it to Tom (tom@battlemaster.org).
 
 Tom acts as editor for this book and retains the privilege of editing or deleting any content submitted before releasing a published copy.
+
+* All files submitted should be in [Leanpub Falvoured Markdown or Markua](https://leanpub.com/help/manual#leanpub-auto-markdown-the-easiest-way-to-format-your-text-for-e-publishing). 
+* Please use your name as the filename and add whatever you want (story name, etc.) after it. 
+* Add a two-digit running number so the editor (me) knows in which order the files should appear. 
+* Use .md or .txt as the file extension.
+* So in summary, your filename could be "tomvogt_lasanarfamilystory_01.md"
 
 
 ## Publishing
